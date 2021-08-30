@@ -10,8 +10,8 @@ https://github.com/daxjuanxiong/infrared-small-target-detection
 - Single-frame InfraRed Small Target (SIRST) Benchmark  
 https://github.com/highland2019/sirst   
 
-# IR_Small_Target-Detection（Traditional)
-resources for IR small target detection
+# IR-Small-Target-Detection（Traditional)
+
 
 - https://github.com/gaocq/GST-for-small-target-detection
 code is for infrared small target detection method based on Generalized Structure Tensor (GST). “”Generalised-structure-tensor-based infrared small target detection”， Electronics Letters， 2008
