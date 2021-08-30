@@ -53,3 +53,6 @@ The implementation of "Infrared Small Target Detection by Density Peaks Searchin
 
 - https://github.com/tsinjiao/InfraredTargetDectectionFKRW
 code for the "Infrared Small Target Detection Based on Facet Kernel and Random Walker"   IEEE Transactions on Geoscience and Remote Sensing, 2019
+
+- 合集
+-  :star: :star: https://github.com/daxjuanxiong/infrared-small-target-detection
